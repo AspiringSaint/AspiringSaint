@@ -9,38 +9,35 @@
 
 ### 🚀 About Me
 
-- 💻 Full Stack Engineer exploring AI/ML
-- 🧠 Passionate about intelligent, data-driven solutions
-- 🎯 Driven to build scalable, efficient web applications
-- 🌱 Currently learning advanced AI/ML frameworks and tools
+- 💻 Full Stack Engineer exploring AI/ML  
+- 🧠 Passionate about intelligent, data-driven solutions  
+- 🎯 Driven to build scalable, efficient web applications  
+- 🌱 Currently learning advanced AI/ML frameworks and tools  
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)  
-![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat&logo=redux)  
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js)
+<div align="center">
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)  
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel)  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+  <img src="https://img.shields.io/badge/-React-20232A?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat&logo=redux" />
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express" />
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql" />
+  <img src="https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux" />
 
-**Database:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)  
-![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server)
-
-**Other Tools:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
+</div>
 
 ---
 
