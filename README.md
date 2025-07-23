@@ -1,58 +1,61 @@
-# Hi there, I'm a Full Stack Engineer 👋
+<h1 align="center">Hi, I'm a Full Stack Engineer 👋</h1>
 
-I'm a **Full Stack Engineer** with a strong foundation in building scalable web applications, currently expanding my skill set into **Artificial Intelligence** and **Machine Learning**. I aim to blend modern web technologies with smart, data-driven solutions to solve real-world challenges.
+<p align="center">
+  Blending AI/ML with full-stack web development to build smart, scalable applications.<br>
+  Focused on solving challenges with practical innovations.
+</p>
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 About Me
 
-- 💼 Full Stack Developer | Aspiring AI/ML Engineer  
-- 🧠 Currently diving deeper into the world of AI/ML  
-- 🚀 Focused on building scalable, intelligent applications  
-- 🧩 Passionate about solving problems with practical and innovative solutions  
+- 💻 Full Stack Engineer exploring AI/ML
+- 🧠 Passionate about intelligent, data-driven solutions
+- 🎯 Driven to build scalable, efficient web applications
+- 🌱 Currently learning advanced AI/ML frameworks and tools
 
 ---
 
 ### 🛠️ Tech Stack
 
-- **Frontend:** React (MERN), Redux Toolkit, Vue.js  
-- **Backend:** Node.js, Express, Laravel, Python (Django, Flask)  
-- **Database:** MongoDB, MySQL, PostgreSQL, SQL  
-- **Other:** REST APIs, Git, Docker, Linux  
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)  
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat&logo=redux)  
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)  
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel)  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)  
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+
+**Database:**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)  
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server)
+
+**Other Tools:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
 
 ---
 
 ### 📌 Goals
 
-- Contribute to open source projects in AI/ML  
-- Build smart web apps that combine full stack and AI/ML capabilities  
-- Share knowledge and learn from the developer community  
+- ✅ Build open-source projects combining web dev & AI/ML  
+- 🤝 Collaborate with other devs and learn in public  
+- 📚 Stay up to date with tech and share knowledge  
 
 ---
 
-### 📫 Let’s Connect
+### 📫 Let's Connect
 
-Feel free to reach out if you're interested in collaborating, discussing tech, or sharing ideas!
-
-[LinkedIn](#) • [Portfolio](#) • [Email](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-121013?style=flat&logo=vercel&logoColor=white)](#)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
-
-*“A full stack engineer blending AI/ML and web development to build smart, scalable applications. Focused on solving challenges with practical innovations.”*
-
-
-
-<!--
-**AspiringSaint/AspiringSaint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
