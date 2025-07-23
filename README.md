@@ -7,17 +7,6 @@
 
 ---
 
-### 🚀 About Me
-
-- 💻 Full Stack Engineer exploring AI/ML  
-- 🧠 Passionate about intelligent, data-driven solutions  
-- 🎯 Driven to build scalable, efficient web applications  
-- 🌱 Currently learning advanced AI/ML frameworks and tools  
-
----
-
-### 🛠️ Tech Stack
-
 <div align="center">
 
   <img src="https://img.shields.io/badge/-React-20232A?style=flat&logo=react" />
@@ -37,6 +26,15 @@
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux" />
 
 </div>
+
+---
+
+### 🚀 About Me
+
+- 💻 Full Stack Engineer exploring AI/ML  
+- 🧠 Passionate about intelligent, data-driven solutions  
+- 🎯 Driven to build scalable, efficient web applications  
+- 🌱 Currently learning advanced AI/ML frameworks and tools  
 
 ---
 
