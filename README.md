@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql" />
-  <img src="https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker" />
